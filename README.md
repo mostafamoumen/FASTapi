@@ -1,0 +1,2 @@
+# FASTapi
+inventory api 
