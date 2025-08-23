@@ -1,2 +1,2 @@
 # FASTapi
-##inventory api 
+## inventory api 
