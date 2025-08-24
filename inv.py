@@ -2,6 +2,7 @@ from pydantic import BaseModel
 from fastapi import FastAPI,HTTPException
 from typing import Optional
 import uuid
+from dotenv import load_dotenv,dotenv_values
 
 
 app=FastAPI()
@@ -87,4 +88,4 @@ def delete_product(id: str):
 #auth in restful api
 
 
-#this is the edit we will pr
+#this is the edit we will pr 
